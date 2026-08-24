@@ -51,7 +51,7 @@ a.pill{
 a.pill:hover{background:var(--blue-dark)}
 .situacao-POSITIVO{color:var(--green);font-weight:bold}
 .situacao-ZERADO{color:var(--amber);font-weight:bold}
-.situacao-NEGATIVO{color:var(--red);font-weight:bold}.situacao-NAOUTILIZADO{color:#666;font-weight:bold}
+.situacao-NEGATIVO{color:var(--red);font-weight:bold}.situacao-NAOUTILIZADO{color:var(--amber);font-weight:bold}
 .section-title{margin-top:34px;font-size:1.1rem;color:var(--blue-dark);border-bottom:2px solid var(--blue-dark);padding-bottom:6px}
 .search-box{margin:16px 0}
 .search-box input{
