@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "exercicio": "2026",
- "ultima_varredura": "2026-10-19T14:11:57",
+ "ultima_varredura": "2026-10-23T09:32:09",
  "ultima_publicacao": null,
  "emendas": {
   "2041": {
@@ -1281,7 +1281,7 @@
    ],
    "assinatura": "8e163c80ba4a7dd7",
    "pdf": "empenho_9458.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -1321,7 +1321,7 @@
    ],
    "assinatura": "881a5290c6f6d9bc",
    "pdf": "empenho_9459.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -1361,7 +1361,7 @@
    ],
    "assinatura": "ca14e78dd6b32a84",
    "pdf": "empenho_9460.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -1384,7 +1384,7 @@
      "data_emissao": "2026-08-04",
      "valor": 2148.0,
      "data_liquidacao": "2026-08-17",
-     "data_pagamento": null,
+     "data_pagamento": "2026-10-22",
      "estornado": false
     }
    ],
@@ -1394,10 +1394,10 @@
     "em_liquidacao": 0.0,
     "liquidado": 2148.0,
     "retido": 0.0,
-    "pago": 0.0,
+    "pago": 2148.0,
     "a_liquidar": 0.0,
-    "a_pagar_liquidado": 2148.0,
-    "a_pagar": 2148.0
+    "a_pagar_liquidado": 0.0,
+    "a_pagar": 0.0
    },
    "movimentos": [
     {
@@ -1415,11 +1415,19 @@
      "valor": 2148.0,
      "av_liquidacao": null,
      "estornada": null
+    },
+    {
+     "data": "2026-10-22",
+     "sequencia": "10219464",
+     "tipo": "pagamento",
+     "valor": 2148.0,
+     "av_liquidacao": "10199871",
+     "estornada": null
     }
    ],
-   "assinatura": "7eebe2be67e7c60d",
+   "assinatura": "bdf165af46255e0b",
    "pdf": "empenho_8737.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 29743 — 04/08/2026"
   },
@@ -1442,7 +1450,7 @@
      "data_emissao": "2026-08-07",
      "valor": 126.98,
      "data_liquidacao": "2026-08-17",
-     "data_pagamento": null,
+     "data_pagamento": "2026-10-22",
      "estornado": false
     }
    ],
@@ -1452,10 +1460,10 @@
     "em_liquidacao": 0.0,
     "liquidado": 126.98,
     "retido": 1.52,
-    "pago": 0.0,
+    "pago": 125.46,
     "a_liquidar": 0.0,
-    "a_pagar_liquidado": 125.46,
-    "a_pagar": 125.46
+    "a_pagar_liquidado": 0.0,
+    "a_pagar": 0.0
    },
    "movimentos": [
     {
@@ -1481,11 +1489,19 @@
      "valor": 1.52,
      "av_liquidacao": "10199876",
      "estornada": null
+    },
+    {
+     "data": "2026-10-22",
+     "sequencia": "10219462",
+     "tipo": "pagamento",
+     "valor": 125.46,
+     "av_liquidacao": "10199876",
+     "estornada": null
     }
    ],
-   "assinatura": "74c87b92bcd43e70",
+   "assinatura": "1488bfe7b1dba13c",
    "pdf": "empenho_8616.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 76510 — 07/08/2026"
   },
@@ -1551,7 +1567,7 @@
    ],
    "assinatura": "ad0c2affbe44d3ad",
    "pdf": "empenho_7985.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 2944 — 10/07/2026"
   },
@@ -1625,7 +1641,7 @@
    ],
    "assinatura": "e5b9019caedc6171",
    "pdf": "empenho_6639.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 35973 — 24/06/2026"
   },
@@ -1691,7 +1707,7 @@
    ],
    "assinatura": "4f22d1039d4c13c4",
    "pdf": "empenho_5734.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 2900 — 03/06/2026"
   },
@@ -1765,7 +1781,7 @@
    ],
    "assinatura": "06a729dfd6875116",
    "pdf": "empenho_3021.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 34651 — 05/05/2026"
   },
@@ -1805,7 +1821,7 @@
    ],
    "assinatura": "4f4312b5a1a85e17",
    "pdf": "empenho_5673.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -1879,7 +1895,7 @@
    ],
    "assinatura": "a7fb3dee3f76cbab",
    "pdf": "empenho_2899.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 22538 — 23/04/2026"
   },
@@ -1945,7 +1961,7 @@
    ],
    "assinatura": "94eb543989275d33",
    "pdf": "empenho_2900.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 28248 — 06/04/2026"
   },
@@ -1985,7 +2001,7 @@
    ],
    "assinatura": "bdb54b7716f5da87",
    "pdf": "empenho_2901.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -2059,7 +2075,7 @@
    ],
    "assinatura": "0cfc9f8fcdb8ff7f",
    "pdf": "empenho_2902.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 39023 — 02/04/2026"
   },
@@ -2133,7 +2149,7 @@
    ],
    "assinatura": "54f97eae6fdac41d",
    "pdf": "empenho_2903.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 10543 — 24/03/2026"
   },
@@ -2207,7 +2223,7 @@
    ],
    "assinatura": "ecf1e9018557f618",
    "pdf": "empenho_2904.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 49552 — 27/03/2026"
   },
@@ -2247,7 +2263,7 @@
    ],
    "assinatura": "a504fd1c8a3d0603",
    "pdf": "empenho_9960.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "PREGÃO PRE 027/2025 — 27/08/2026"
   },
@@ -2313,7 +2329,7 @@
    ],
    "assinatura": "df11be4f6c6b5217",
    "pdf": "empenho_4407.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 6359 — 14/05/2026"
   },
@@ -2379,7 +2395,7 @@
    ],
    "assinatura": "5893fef8ef82b44d",
    "pdf": "empenho_5606.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 2046 — 02/06/2026"
   },
@@ -2488,7 +2504,7 @@
    ],
    "assinatura": "6cc14f67c0dfc167",
    "pdf": "empenho_8288.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "2026TR059 - EMENDA Nº 20107/26 - MAIO A JULHO/2026; 2026TR059 - EMENDA Nº 20107/2026 - AGOSTO/2026 — 14/08/2026; 2026TR059 - EMENDA Nº 20107/2026 - SETEMBRO/2026"
   },
@@ -2511,7 +2527,7 @@
      "data_emissao": "2026-09-01",
      "valor": 30755.66,
      "data_liquidacao": "2026-10-05",
-     "data_pagamento": null,
+     "data_pagamento": "2026-10-22",
      "estornado": false
     }
    ],
@@ -2521,10 +2537,10 @@
     "em_liquidacao": 0.0,
     "liquidado": 10000.0,
     "retido": 0.0,
-    "pago": 0.0,
+    "pago": 10000.0,
     "a_liquidar": 0.0,
-    "a_pagar_liquidado": 10000.0,
-    "a_pagar": 10000.0
+    "a_pagar_liquidado": 0.0,
+    "a_pagar": 0.0
    },
    "movimentos": [
     {
@@ -2542,11 +2558,19 @@
      "valor": 10000.0,
      "av_liquidacao": null,
      "estornada": null
+    },
+    {
+     "data": "2026-10-22",
+     "sequencia": "10219470",
+     "tipo": "pagamento",
+     "valor": 10000.0,
+     "av_liquidacao": "10215155",
+     "estornada": null
     }
    ],
-   "assinatura": "9797b9ca47bdffd9",
+   "assinatura": "1d42fb46a1f8064c",
    "pdf": "empenho_8227.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -2612,7 +2636,7 @@
    ],
    "assinatura": "f4469d208f371886",
    "pdf": "empenho_8726.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53463 — 29/07/2026"
   },
@@ -2678,7 +2702,7 @@
    ],
    "assinatura": "f565b28d845a249b",
    "pdf": "empenho_8300.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "83227 — 17/07/2026"
   },
@@ -2744,7 +2768,7 @@
    ],
    "assinatura": "3afb8cd621f638ca",
    "pdf": "empenho_8301.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53197 — 16/07/2026"
   },
@@ -2767,7 +2791,7 @@
      "data_emissao": "2026-09-01",
      "valor": 30755.66,
      "data_liquidacao": "2026-10-05",
-     "data_pagamento": null,
+     "data_pagamento": "2026-10-22",
      "estornado": false
     }
    ],
@@ -2777,10 +2801,10 @@
     "em_liquidacao": 0.0,
     "liquidado": 7698.37,
     "retido": 0.0,
-    "pago": 0.0,
+    "pago": 7698.37,
     "a_liquidar": 0.0,
-    "a_pagar_liquidado": 7698.37,
-    "a_pagar": 7698.37
+    "a_pagar_liquidado": 0.0,
+    "a_pagar": 0.0
    },
    "movimentos": [
     {
@@ -2798,11 +2822,19 @@
      "valor": 7698.37,
      "av_liquidacao": null,
      "estornada": null
+    },
+    {
+     "data": "2026-10-22",
+     "sequencia": "10219472",
+     "tipo": "pagamento",
+     "valor": 7698.37,
+     "av_liquidacao": "10215160",
+     "estornada": null
     }
    ],
-   "assinatura": "ae0ce66bd3fac0a9",
+   "assinatura": "bccc88a8729ce740",
    "pdf": "empenho_8229.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -2868,7 +2900,7 @@
    ],
    "assinatura": "248ec0b7345278ee",
    "pdf": "empenho_6694.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52412 — 09/06/2026"
   },
@@ -2908,7 +2940,7 @@
    ],
    "assinatura": "96e6c1440505db26",
    "pdf": "empenho_11285.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -2974,7 +3006,7 @@
    ],
    "assinatura": "bbd82d5a831d88dc",
    "pdf": "empenho_9935.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "54045 — 26/08/2026"
   },
@@ -3040,7 +3072,7 @@
    ],
    "assinatura": "fbd4b40ff1527529",
    "pdf": "empenho_8355.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53198 — 16/07/2026"
   },
@@ -3106,7 +3138,7 @@
    ],
    "assinatura": "cdd3883d3447a01c",
    "pdf": "empenho_8304.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53191 — 16/07/2026"
   },
@@ -3172,7 +3204,7 @@
    ],
    "assinatura": "8bf5a35a0c6fa421",
    "pdf": "empenho_8305.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53190 — 16/07/2026"
   },
@@ -3238,7 +3270,7 @@
    ],
    "assinatura": "3f656b5f5fb6a440",
    "pdf": "empenho_6714.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52425 — 10/06/2026"
   },
@@ -3304,7 +3336,7 @@
    ],
    "assinatura": "1c7eee9a8e964fff",
    "pdf": "empenho_6715.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52420 — 10/06/2026"
   },
@@ -3370,7 +3402,7 @@
    ],
    "assinatura": "4ef524ab5a89b953",
    "pdf": "empenho_1506.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "50156 — 18/02/2026"
   },
@@ -3436,7 +3468,7 @@
    ],
    "assinatura": "9005be43767201e4",
    "pdf": "empenho_9547.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53687 — 10/08/2026"
   },
@@ -3502,7 +3534,7 @@
    ],
    "assinatura": "05ceee2b4de562f5",
    "pdf": "empenho_8754.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53505 — 30/07/2026"
   },
@@ -3568,7 +3600,7 @@
    ],
    "assinatura": "fae2a799985a24bd",
    "pdf": "empenho_8128.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53002 — 08/07/2026"
   },
@@ -3642,7 +3674,7 @@
    ],
    "assinatura": "b9ded9b98032059e",
    "pdf": "empenho_3996.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 13929 — 10/04/2026"
   },
@@ -3708,7 +3740,7 @@
    ],
    "assinatura": "4d7ca839b432bb70",
    "pdf": "empenho_3862.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "51096 — 07/04/2026"
   },
@@ -3774,7 +3806,7 @@
    ],
    "assinatura": "22d0e25be3752145",
    "pdf": "empenho_3806.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "51095 — 07/04/2026"
   },
@@ -3840,7 +3872,7 @@
    ],
    "assinatura": "142117464783cfed",
    "pdf": "empenho_2951.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "50860 — 24/03/2026"
   },
@@ -3914,7 +3946,7 @@
    ],
    "assinatura": "71d76a18b21ee4f2",
    "pdf": "empenho_2953.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 13862 — 27/03/2026"
   },
@@ -3996,7 +4028,7 @@
    ],
    "assinatura": "0cccfcb8e1040125",
    "pdf": "empenho_2759.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 13824 — 19/03/2026"
   },
@@ -4044,7 +4076,7 @@
    ],
    "assinatura": "0906fee6754c3e4e",
    "pdf": "empenho_2760.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -4110,7 +4142,7 @@
    ],
    "assinatura": "054e12549253c16b",
    "pdf": "empenho_2768.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "50711 — 17/03/2026"
   },
@@ -4176,7 +4208,7 @@
    ],
    "assinatura": "2f206c0f5485d551",
    "pdf": "empenho_2769.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "50710 — 17/03/2026"
   },
@@ -4242,7 +4274,7 @@
    ],
    "assinatura": "972f38284c3c6007",
    "pdf": "empenho_2689.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "50605 — 12/03/2026"
   },
@@ -4341,7 +4373,7 @@
    ],
    "assinatura": "e727bce9d747e901",
    "pdf": "empenho_2702.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 13808 — 14/03/2026"
   },
@@ -4407,7 +4439,7 @@
    ],
    "assinatura": "f9a9a1b419566f1c",
    "pdf": "empenho_2558.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "50520 — 10/03/2026"
   },
@@ -4481,7 +4513,7 @@
    ],
    "assinatura": "6ea59f51f9f19be8",
    "pdf": "empenho_2625.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 13681 — 24/02/2026"
   },
@@ -4555,7 +4587,7 @@
    ],
    "assinatura": "9b84cfb464a53c71",
    "pdf": "empenho_2626.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 13794 — 13/03/2026"
   },
@@ -4621,7 +4653,7 @@
    ],
    "assinatura": "bcf3963486ba1ccc",
    "pdf": "empenho_2404.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "50405 — 03/03/2026"
   },
@@ -4687,7 +4719,7 @@
    ],
    "assinatura": "c5163e495c07f78e",
    "pdf": "empenho_2406.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "50426 — 04/03/2026"
   },
@@ -4761,7 +4793,7 @@
    ],
    "assinatura": "34e005c9b70404cf",
    "pdf": "empenho_2412.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 13700 — 27/02/2026"
   },
@@ -4809,7 +4841,7 @@
    ],
    "assinatura": "acc7259c6a3bc2d0",
    "pdf": "empenho_2413.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -4857,7 +4889,7 @@
    ],
    "assinatura": "3629c983f9995f9b",
    "pdf": "empenho_2414.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -4931,7 +4963,7 @@
    ],
    "assinatura": "2107298e074818df",
    "pdf": "empenho_1736.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "13699 — 27/02/2026"
   },
@@ -4997,7 +5029,7 @@
    ],
    "assinatura": "e5392336dad6cf49",
    "pdf": "empenho_1778.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "MEMORANDO Nº 4.584/2026 - EMENDA Nº 20315 — 27/02/2026"
   },
@@ -5063,7 +5095,7 @@
    ],
    "assinatura": "74bb16eb6d0768ef",
    "pdf": "empenho_1698.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "50295 — 25/02/2026"
   },
@@ -5129,7 +5161,7 @@
    ],
    "assinatura": "ae53a262602a53c2",
    "pdf": "empenho_1699.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "50290 — 25/02/2026"
   },
@@ -5195,7 +5227,7 @@
    ],
    "assinatura": "89577a8b6840c83e",
    "pdf": "empenho_1700.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "50242 — 24/02/2026"
   },
@@ -5235,7 +5267,7 @@
    ],
    "assinatura": "59fa3f6039acd0ce",
    "pdf": "empenho_1707.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -5301,7 +5333,7 @@
    ],
    "assinatura": "502fb2480d985fb1",
    "pdf": "empenho_1504.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "50103 — 18/02/2026"
   },
@@ -5341,7 +5373,7 @@
    ],
    "assinatura": "a207e35056d3027e",
    "pdf": "empenho_1470.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -5407,7 +5439,7 @@
    ],
    "assinatura": "bfe9474afb881045",
    "pdf": "empenho_10897.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "54379 — 15/09/2026"
   },
@@ -5481,7 +5513,7 @@
    ],
    "assinatura": "3d89cb9f90a003f4",
    "pdf": "empenho_8011.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 24 — 14/07/2026"
   },
@@ -5547,7 +5579,7 @@
    ],
    "assinatura": "a7616730f3094e88",
    "pdf": "empenho_8222.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "MEMORANDO Nº 16.312/2026 — 14/07/2026"
   },
@@ -5645,7 +5677,7 @@
    ],
    "assinatura": "ddbf5d1456289aeb",
    "pdf": "empenho_2396.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "MEMORANDO Nº 4.885/2026 — 04/03/2026"
   },
@@ -5711,7 +5743,7 @@
    ],
    "assinatura": "c40a2213701ae1dc",
    "pdf": "empenho_10791.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "MEMORANDO Nº 21.143/2026 — 10/09/2026"
   },
@@ -5777,7 +5809,7 @@
    ],
    "assinatura": "4f85ef185ce5a380",
    "pdf": "empenho_11360.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "MEMORANDO 22.691/2026. — 30/09/2026"
   },
@@ -5843,7 +5875,7 @@
    ],
    "assinatura": "882b283624159080",
    "pdf": "empenho_8654.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "MEMORANDO N° 17.499/2026 — 28/07/2026"
   },
@@ -5909,7 +5941,7 @@
    ],
    "assinatura": "1b0b785d4e833492",
    "pdf": "empenho_5815.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "MEMORANDO N° 12.908/2026 — 01/06/2026"
   },
@@ -5983,7 +6015,7 @@
    ],
    "assinatura": "5a586d0d1edc6465",
    "pdf": "empenho_3999.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 13982 — 17/04/2026"
   },
@@ -6049,7 +6081,7 @@
    ],
    "assinatura": "454026b7b72e25da",
    "pdf": "empenho_4014.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "51147 — 08/04/2026"
   },
@@ -6115,7 +6147,7 @@
    ],
    "assinatura": "5e5994ea399936a7",
    "pdf": "empenho_4015.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "51149 — 08/04/2026"
   },
@@ -6181,7 +6213,7 @@
    ],
    "assinatura": "41bd31970cf912bd",
    "pdf": "empenho_2836.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "50742 — 18/03/2026"
   },
@@ -6247,7 +6279,7 @@
    ],
    "assinatura": "a5dc55626fa2d5eb",
    "pdf": "empenho_2565.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "MEMORANDO Nº 5.656/2026 — 10/03/2026"
   },
@@ -6313,7 +6345,7 @@
    ],
    "assinatura": "713d8682b8bd6423",
    "pdf": "empenho_1505.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "50155 — 18/02/2026"
   },
@@ -6379,7 +6411,7 @@
    ],
    "assinatura": "5c3e626720fea9b7",
    "pdf": "empenho_1507.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "50154 — 18/02/2026"
   },
@@ -6453,7 +6485,7 @@
    ],
    "assinatura": "678a132bf4027783",
    "pdf": "empenho_9372.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "TERMO DE FOMENTO Nº 2026TR078 - EMENDA Nº 20305/26"
   },
@@ -6519,7 +6551,7 @@
    ],
    "assinatura": "4325596e6d8ba729",
    "pdf": "empenho_9448.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "2026TR053 - EMENDA Nº 20101/2026 - SETEMBRO/26 — 22/09/2026"
   },
@@ -6601,7 +6633,7 @@
    ],
    "assinatura": "76d6b4ac97e0f194",
    "pdf": "empenho_8811.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "TERMO DE FOMENTO Nº 2026TR058 - EMENDA Nº 20106/26"
   },
@@ -6675,7 +6707,7 @@
    ],
    "assinatura": "4b72c859f800a16a",
    "pdf": "empenho_8829.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "TERMO DE FOMENTO Nº 2026TR079- EMENDA Nº 20304/26"
   },
@@ -6750,7 +6782,7 @@
    ],
    "assinatura": "ad3f5efce38fe714",
    "pdf": "empenho_9834.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "TERMO DE FOMENTO Nº 2026TR078 - EMENDA Nº 20305/26; 2026TR078 - EMENDA Nº 20305/2026 - SETEMBRO/26 — 22/09/2026"
   },
@@ -6858,7 +6890,7 @@
    ],
    "assinatura": "95a169795e970330",
    "pdf": "empenho_8807.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "2026TR074 - EMENDA Nº 20307/26 - JULHO E AGOSTO/26"
   },
@@ -6932,7 +6964,7 @@
    ],
    "assinatura": "36b913e3f84375f6",
    "pdf": "empenho_8812.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "TERMO DE FOMENTO Nº 2026TR085 - EMENDA Nº 20411/26"
   },
@@ -6998,7 +7030,7 @@
    ],
    "assinatura": "27eac136c085abc4",
    "pdf": "empenho_5616.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52005 — 20/05/2026"
   },
@@ -7064,7 +7096,7 @@
    ],
    "assinatura": "89f080df9eb00cf2",
    "pdf": "empenho_4193.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 14038 — 24/04/2026"
   },
@@ -7130,7 +7162,7 @@
    ],
    "assinatura": "f51a7507937a08a6",
    "pdf": "empenho_4202.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "51438 — 22/04/2026"
   },
@@ -7196,7 +7228,7 @@
    ],
    "assinatura": "38c14b773f245dc8",
    "pdf": "empenho_4173.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 13986 — 17/04/2026"
   },
@@ -7262,7 +7294,7 @@
    ],
    "assinatura": "63d61dd97a4fafc0",
    "pdf": "empenho_3997.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 13928 — 10/04/2026"
   },
@@ -7328,7 +7360,7 @@
    ],
    "assinatura": "24cb3d40342160cf",
    "pdf": "empenho_2997.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 13825 — 19/03/2026"
   },
@@ -7394,7 +7426,7 @@
    ],
    "assinatura": "e1dbd89a604c5e7a",
    "pdf": "empenho_2954.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 14787 — 04/09/2026"
   },
@@ -7460,7 +7492,7 @@
    ],
    "assinatura": "2724ce7f45ace1f1",
    "pdf": "empenho_1465.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 13655 — 20/02/2026"
   },
@@ -7526,7 +7558,7 @@
    ],
    "assinatura": "3606623b7ea3d4db",
    "pdf": "empenho_1365.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 13607 — 06/02/2026"
   },
@@ -7592,7 +7624,7 @@
    ],
    "assinatura": "93a5c73410fec62b",
    "pdf": "empenho_5792.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52224 — 29/05/2026"
   },
@@ -7658,7 +7690,7 @@
    ],
    "assinatura": "000ef42d2699da28",
    "pdf": "empenho_5802.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52218 — 29/05/2026"
   },
@@ -7724,7 +7756,7 @@
    ],
    "assinatura": "033b6b98aba8af42",
    "pdf": "empenho_5803.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52226 — 29/05/2026"
   },
@@ -7790,7 +7822,7 @@
    ],
    "assinatura": "e65309e39b24c499",
    "pdf": "empenho_5806.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 14215 — 22/05/2026"
   },
@@ -7856,7 +7888,7 @@
    ],
    "assinatura": "94711c4cdf9ff767",
    "pdf": "empenho_6006.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52300 — 02/06/2026"
   },
@@ -7922,7 +7954,7 @@
    ],
    "assinatura": "871f5930fad4b424",
    "pdf": "empenho_5620.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52010 — 20/05/2026"
   },
@@ -7988,7 +8020,7 @@
    ],
    "assinatura": "9ec9e7c377985cf4",
    "pdf": "empenho_5622.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52006 — 20/05/2026"
   },
@@ -8054,7 +8086,7 @@
    ],
    "assinatura": "80cd10995f7bd414",
    "pdf": "empenho_5655.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52038 — 21/05/2026"
   },
@@ -8120,7 +8152,7 @@
    ],
    "assinatura": "bee5b1c58f3ee3f9",
    "pdf": "empenho_1554.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 4017 — 27/02/2026"
   },
@@ -8194,7 +8226,7 @@
    ],
    "assinatura": "8e4ace832ddc16be",
    "pdf": "empenho_1496.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 5229 — 16/03/2026"
   },
@@ -8260,7 +8292,7 @@
    ],
    "assinatura": "354e94249e67e1f0",
    "pdf": "empenho_1421.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 3991 — 20/02/2026"
   },
@@ -8318,7 +8350,7 @@
    ],
    "assinatura": "d09a5a18983f2cbf",
    "pdf": "empenho_1423.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 27805 — 20/02/2026"
   },
@@ -8392,7 +8424,7 @@
    ],
    "assinatura": "f6b86984e15359fa",
    "pdf": "empenho_1425.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 38274 — 25/02/2026"
   },
@@ -8440,7 +8472,7 @@
    ],
    "assinatura": "f83cef2e8eade350",
    "pdf": "empenho_1426.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -8514,7 +8546,7 @@
    ],
    "assinatura": "967709cd80b9e22f",
    "pdf": "empenho_1427.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 9852 — 16/02/2026"
   },
@@ -8588,7 +8620,7 @@
    ],
    "assinatura": "d73897d7811ad33b",
    "pdf": "empenho_1428.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 47962 — 26/02/2026"
   },
@@ -8654,7 +8686,7 @@
    ],
    "assinatura": "7835777e0b80e107",
    "pdf": "empenho_1429.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 11921 — 17/03/2026"
   },
@@ -8728,7 +8760,7 @@
    ],
    "assinatura": "c824e516c4652fb8",
    "pdf": "empenho_1430.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 20571 — 18/03/2026"
   },
@@ -8802,7 +8834,7 @@
    ],
    "assinatura": "b321d486aa726762",
    "pdf": "empenho_1431.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 70183 — 06/03/2026"
   },
@@ -8834,7 +8866,7 @@
      "data_emissao": "2026-09-01",
      "valor": 30755.66,
      "data_liquidacao": "2026-10-05",
-     "data_pagamento": null,
+     "data_pagamento": "2026-10-22",
      "estornado": false
     }
    ],
@@ -8844,10 +8876,10 @@
     "em_liquidacao": 0.0,
     "liquidado": 4600.0,
     "retido": 15.99,
-    "pago": 1316.48,
+    "pago": 4584.01,
     "a_liquidar": 0.0,
-    "a_pagar_liquidado": 3267.53,
-    "a_pagar": 3267.53
+    "a_pagar_liquidado": 0.0,
+    "a_pagar": 0.0
    },
    "movimentos": [
     {
@@ -8889,11 +8921,19 @@
      "valor": 3267.53,
      "av_liquidacao": null,
      "estornada": null
+    },
+    {
+     "data": "2026-10-22",
+     "sequencia": "10219466",
+     "tipo": "pagamento",
+     "valor": 3267.53,
+     "av_liquidacao": "10215145",
+     "estornada": null
     }
    ],
-   "assinatura": "8437c780a3bb927c",
+   "assinatura": "591ecacc835c0219",
    "pdf": "empenho_4400.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 464501 — 01/07/2026"
   },
@@ -8959,7 +8999,7 @@
    ],
    "assinatura": "8ac7795357afa7fb",
    "pdf": "empenho_4267.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 67102055 — 25/05/2026"
   },
@@ -9025,7 +9065,7 @@
    ],
    "assinatura": "c564a0e4b75c99de",
    "pdf": "empenho_4270.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 29891 — 30/04/2026"
   },
@@ -9091,7 +9131,7 @@
    ],
    "assinatura": "8a4d9e426cd2253a",
    "pdf": "empenho_2491.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 835 — 11/03/2026"
   },
@@ -9174,7 +9214,7 @@
    ],
    "assinatura": "656ef581fd6b5c82",
    "pdf": "empenho_2492.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 1109885 — 10/03/2026"
   },
@@ -9240,7 +9280,7 @@
    ],
    "assinatura": "b33eeac5325bb99b",
    "pdf": "empenho_2493.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 1376 — 06/04/2026"
   },
@@ -9314,7 +9354,7 @@
    ],
    "assinatura": "d9212f6d7fd5a4fb",
    "pdf": "empenho_2495.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 576681 — 10/03/2026"
   },
@@ -9337,7 +9377,7 @@
      "data_emissao": "2026-09-01",
      "valor": 30755.66,
      "data_liquidacao": "2026-10-05",
-     "data_pagamento": null,
+     "data_pagamento": "2026-10-22",
      "estornado": false
     }
    ],
@@ -9347,10 +9387,10 @@
     "em_liquidacao": 0.0,
     "liquidado": 5000.0,
     "retido": 0.0,
-    "pago": 0.0,
+    "pago": 5000.0,
     "a_liquidar": 0.0,
-    "a_pagar_liquidado": 5000.0,
-    "a_pagar": 5000.0
+    "a_pagar_liquidado": 0.0,
+    "a_pagar": 0.0
    },
    "movimentos": [
     {
@@ -9368,11 +9408,19 @@
      "valor": 5000.0,
      "av_liquidacao": null,
      "estornada": null
+    },
+    {
+     "data": "2026-10-22",
+     "sequencia": "10219471",
+     "tipo": "pagamento",
+     "valor": 5000.0,
+     "av_liquidacao": "10215157",
+     "estornada": null
     }
    ],
-   "assinatura": "d595c4ad87dac49b",
+   "assinatura": "db104d032705946e",
    "pdf": "empenho_8228.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -9438,7 +9486,7 @@
    ],
    "assinatura": "2f60e237432265d2",
    "pdf": "empenho_7080.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 9973 — 02/07/2026"
   },
@@ -9496,7 +9544,7 @@
    ],
    "assinatura": "62fe72946ceff3bf",
    "pdf": "empenho_7092.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 2942 — 08/07/2026"
   },
@@ -9562,7 +9610,7 @@
    ],
    "assinatura": "0080a08d75fc0933",
    "pdf": "empenho_7027.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 288104 — 26/06/2026"
   },
@@ -9620,7 +9668,7 @@
    ],
    "assinatura": "4bf1663f2de69449",
    "pdf": "empenho_6984.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 1837 — 24/06/2026"
   },
@@ -9686,7 +9734,7 @@
    ],
    "assinatura": "6bc1590d5851c4f7",
    "pdf": "empenho_6744.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 23989 — 30/06/2026"
   },
@@ -9752,7 +9800,7 @@
    ],
    "assinatura": "5d8d21436ae17675",
    "pdf": "empenho_5096.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 2877 — 23/05/2026"
   },
@@ -9792,7 +9840,7 @@
    ],
    "assinatura": "2f219ea1b1db6d46",
    "pdf": "empenho_9449.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -9867,7 +9915,7 @@
    ],
    "assinatura": "971de5a6fc39ca03",
    "pdf": "empenho_9450.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 9276 — 13/08/2026"
   },
@@ -9925,7 +9973,7 @@
    ],
    "assinatura": "21563bdc3d4175de",
    "pdf": "empenho_9451.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 13922 — 10/08/2026"
   },
@@ -9991,7 +10039,7 @@
    ],
    "assinatura": "ce753875ff22654d",
    "pdf": "empenho_9452.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 1148005 — 12/08/2026"
   },
@@ -10057,7 +10105,7 @@
    ],
    "assinatura": "6b4ab1bd1bd54fe9",
    "pdf": "empenho_9453.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 602417 — 21/08/2026"
   },
@@ -10115,7 +10163,7 @@
    ],
    "assinatura": "d8d8a422b9033446",
    "pdf": "empenho_9454.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 2511 — 24/08/2026"
   },
@@ -10181,7 +10229,7 @@
    ],
    "assinatura": "9feff3e1d5ca0cb2",
    "pdf": "empenho_9455.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 40121 — 24/09/2026"
   },
@@ -10239,7 +10287,7 @@
    ],
    "assinatura": "4382d233eb7a7659",
    "pdf": "empenho_9456.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 30213 — 07/09/2026"
   },
@@ -10297,7 +10345,7 @@
    ],
    "assinatura": "ea85f2f2b29a5ccd",
    "pdf": "empenho_9457.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 2391 — 02/09/2026"
   },
@@ -10337,7 +10385,7 @@
    ],
    "assinatura": "7bfbd6b21af061e4",
    "pdf": "empenho_9506.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -10403,7 +10451,7 @@
    ],
    "assinatura": "4f83af6456740264",
    "pdf": "empenho_9410.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 12517 — 12/08/2026"
   },
@@ -10469,7 +10517,7 @@
    ],
    "assinatura": "3ec3f731aee35ead",
    "pdf": "empenho_8614.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 78838 — 11/08/2026"
   },
@@ -10509,7 +10557,7 @@
    ],
    "assinatura": "03d91a7ca3940c36",
    "pdf": "empenho_8810.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -10583,7 +10631,7 @@
    ],
    "assinatura": "f05a1d7cd6fc8174",
    "pdf": "empenho_8598.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 12903 — 12/05/2026"
   },
@@ -10631,7 +10679,7 @@
    ],
    "assinatura": "03322cde6241e43e",
    "pdf": "empenho_9565.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -10671,7 +10719,7 @@
    ],
    "assinatura": "21ed2e63c626f2c1",
    "pdf": "empenho_7972.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -10711,7 +10759,7 @@
    ],
    "assinatura": "938d67a309944492",
    "pdf": "empenho_5686.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -10801,7 +10849,7 @@
    ],
    "assinatura": "46485f3589a354d9",
    "pdf": "empenho_4366.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 12903 — 12/05/2026"
   },
@@ -10849,7 +10897,7 @@
    ],
    "assinatura": "785a804dd6fa8771",
    "pdf": "empenho_4368.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -10907,7 +10955,7 @@
    ],
    "assinatura": "6c4fffe371d721a1",
    "pdf": "empenho_8326.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "TERMO DE FOMENTO 2026TR038 - EMENDA Nº 11001/26"
   },
@@ -10965,7 +11013,7 @@
    ],
    "assinatura": "ad4d14434ee8d27d",
    "pdf": "empenho_8618.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 6596 — 12/08/2026"
   },
@@ -11031,7 +11079,7 @@
    ],
    "assinatura": "c6f4964d6631fe7d",
    "pdf": "empenho_4000.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 13981 — 17/04/2026"
   },
@@ -11097,7 +11145,7 @@
    ],
    "assinatura": "ea2cd84950fdea66",
    "pdf": "empenho_2676.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 6339 — 24/04/2026"
   },
@@ -11163,7 +11211,7 @@
    ],
    "assinatura": "871da0e450485ce8",
    "pdf": "empenho_9392.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53448 — 29/07/2026"
   },
@@ -11229,7 +11277,7 @@
    ],
    "assinatura": "4bd7651aa7ecf527",
    "pdf": "empenho_8755.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53450 — 29/07/2026"
   },
@@ -11295,7 +11343,7 @@
    ],
    "assinatura": "985987933304615d",
    "pdf": "empenho_8756.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53452 — 29/07/2026"
   },
@@ -11361,7 +11409,7 @@
    ],
    "assinatura": "0e7051fdff5f9137",
    "pdf": "empenho_8676.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53366 — 24/07/2026"
   },
@@ -11401,7 +11449,7 @@
    ],
    "assinatura": "3b6f1681181b2b48",
    "pdf": "empenho_6669.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -11467,7 +11515,7 @@
    ],
    "assinatura": "d567af67dda29d7d",
    "pdf": "empenho_4435.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "MEMORANDO Nº 10.179/2026* — 04/05/2026"
   },
@@ -11533,7 +11581,7 @@
    ],
    "assinatura": "0d6466726ffdee3e",
    "pdf": "empenho_4201.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "51416 — 22/04/2026"
   },
@@ -11599,7 +11647,7 @@
    ],
    "assinatura": "3f7c43a9e3f01f82",
    "pdf": "empenho_4169.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "51412 — 22/04/2026"
   },
@@ -11665,7 +11713,7 @@
    ],
    "assinatura": "61b00a1765a754dc",
    "pdf": "empenho_4153.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "51414 — 22/04/2026"
   },
@@ -11731,7 +11779,7 @@
    ],
    "assinatura": "ac5fea21ec65c447",
    "pdf": "empenho_10751.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "Solicitação de diária 54231 — 08/09/2026"
   },
@@ -11797,7 +11845,7 @@
    ],
    "assinatura": "da4b0070f9ed1be8",
    "pdf": "empenho_10783.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "Solicitação de diária 54289 — 09/09/2026"
   },
@@ -11863,7 +11911,7 @@
    ],
    "assinatura": "a67db18f0900f013",
    "pdf": "empenho_10784.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "Solicitação de diária 54287 — 09/09/2026"
   },
@@ -11954,7 +12002,7 @@
    ],
    "assinatura": "ab01c5e9f322831d",
    "pdf": "empenho_11343.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 122 — 30/09/2026"
   },
@@ -12020,7 +12068,7 @@
    ],
    "assinatura": "aea47717eb754f75",
    "pdf": "empenho_11545.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "54777 — 29/09/2026"
   },
@@ -12086,7 +12134,7 @@
    ],
    "assinatura": "2e14d74031f322b5",
    "pdf": "empenho_9891.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "MEMORANDO Nº 19.555/2026 — 21/08/2026"
   },
@@ -12152,7 +12200,7 @@
    ],
    "assinatura": "8f46cd5814078d02",
    "pdf": "empenho_8701.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53438 — 28/07/2026"
   },
@@ -12218,7 +12266,7 @@
    ],
    "assinatura": "9c9fc8af065cad39",
    "pdf": "empenho_8702.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53439 — 28/07/2026"
   },
@@ -12250,7 +12298,7 @@
      "data_emissao": "2026-09-01",
      "valor": 30755.66,
      "data_liquidacao": "2026-10-05",
-     "data_pagamento": null,
+     "data_pagamento": "2026-10-22",
      "estornado": false
     }
    ],
@@ -12260,10 +12308,10 @@
     "em_liquidacao": 0.0,
     "liquidado": 2800.0,
     "retido": 0.0,
-    "pago": 1452.87,
+    "pago": 2800.0,
     "a_liquidar": 0.0,
-    "a_pagar_liquidado": 1347.13,
-    "a_pagar": 1347.13
+    "a_pagar_liquidado": 0.0,
+    "a_pagar": 0.0
    },
    "movimentos": [
     {
@@ -12297,11 +12345,19 @@
      "valor": 1452.87,
      "av_liquidacao": "10199402",
      "estornada": null
+    },
+    {
+     "data": "2026-10-22",
+     "sequencia": "10219468",
+     "tipo": "pagamento",
+     "valor": 1347.13,
+     "av_liquidacao": "10215150",
+     "estornada": null
     }
    ],
-   "assinatura": "da5041de5bf27703",
+   "assinatura": "c4bcbefb897fec06",
    "pdf": "empenho_8225.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 482581 — 01/08/2026"
   },
@@ -12367,7 +12423,7 @@
    ],
    "assinatura": "a49b36d4533d8997",
    "pdf": "empenho_8171.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "MEMORANDO Nº 16.166/2026 — 10/07/2026"
   },
@@ -12433,7 +12489,7 @@
    ],
    "assinatura": "a1a1a0fd70469887",
    "pdf": "empenho_7078.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "MEMORANDO N° 14.518/2026 — 22/06/2026"
   },
@@ -12499,7 +12555,7 @@
    ],
    "assinatura": "41c68e2bd8b77c3e",
    "pdf": "empenho_5831.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52274 — 01/06/2026"
   },
@@ -12565,7 +12621,7 @@
    ],
    "assinatura": "93aad2eaf3630433",
    "pdf": "empenho_5832.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52276 — 01/06/2026"
   },
@@ -12631,7 +12687,7 @@
    ],
    "assinatura": "5e00a5999f85a821",
    "pdf": "empenho_6007.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52275 — 01/06/2026"
   },
@@ -12697,7 +12753,7 @@
    ],
    "assinatura": "61ab1a77a450d5af",
    "pdf": "empenho_4017.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "51148 — 08/04/2026"
   },
@@ -12763,7 +12819,7 @@
    ],
    "assinatura": "ef5e45e1e0383526",
    "pdf": "empenho_10887.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "MEMORANDO Nº 21.472/2026 — 15/09/2026"
   },
@@ -12829,7 +12885,7 @@
    ],
    "assinatura": "0b8c32bcbb731ca6",
    "pdf": "empenho_11290.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "54591/2026 — 23/09/2026"
   },
@@ -12895,7 +12951,7 @@
    ],
    "assinatura": "fdfc64373714c0a2",
    "pdf": "empenho_11291.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "54597/2026 — 23/09/2026"
   },
@@ -12961,7 +13017,7 @@
    ],
    "assinatura": "b0327b47ca8f3450",
    "pdf": "empenho_8734.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "MEMORANDO 17.528/2026 — 29/07/2026"
   },
@@ -12984,7 +13040,7 @@
      "data_emissao": "2026-09-01",
      "valor": 30755.66,
      "data_liquidacao": "2026-10-05",
-     "data_pagamento": null,
+     "data_pagamento": "2026-10-22",
      "estornado": false
     }
    ],
@@ -12994,10 +13050,10 @@
     "em_liquidacao": 0.0,
     "liquidado": 891.63,
     "retido": 0.0,
-    "pago": 0.0,
+    "pago": 891.63,
     "a_liquidar": 0.0,
-    "a_pagar_liquidado": 891.63,
-    "a_pagar": 891.63
+    "a_pagar_liquidado": 0.0,
+    "a_pagar": 0.0
    },
    "movimentos": [
     {
@@ -13015,11 +13071,19 @@
      "valor": 891.63,
      "av_liquidacao": null,
      "estornada": null
+    },
+    {
+     "data": "2026-10-22",
+     "sequencia": "10219469",
+     "tipo": "pagamento",
+     "valor": 891.63,
+     "av_liquidacao": "10215153",
+     "estornada": null
     }
    ],
-   "assinatura": "44e61bf12800d4a2",
+   "assinatura": "282b7b25af75049d",
    "pdf": "empenho_8226.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -13102,7 +13166,7 @@
    ],
    "assinatura": "57669b49be7b3374",
    "pdf": "empenho_6636.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 14611 — 23/07/2026"
   },
@@ -13168,7 +13232,7 @@
    ],
    "assinatura": "036565356c90971c",
    "pdf": "empenho_4377.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "51513 — 27/04/2026"
   },
@@ -13234,7 +13298,7 @@
    ],
    "assinatura": "988b584eb244e912",
    "pdf": "empenho_4378.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "51512 — 27/04/2026"
   },
@@ -13300,7 +13364,7 @@
    ],
    "assinatura": "945f8eb2242fbd49",
    "pdf": "empenho_4124.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "MEMORANDO Nº 8.943/2026 — 16/04/2026"
   },
@@ -13366,7 +13430,7 @@
    ],
    "assinatura": "cec65d1d86837f1a",
    "pdf": "empenho_2559.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "50481 — 09/03/2026"
   },
@@ -13432,7 +13496,7 @@
    ],
    "assinatura": "2a789add07e4c280",
    "pdf": "empenho_2562.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "50482 — 09/03/2026"
   },
@@ -13498,7 +13562,7 @@
    ],
    "assinatura": "3198d9915126cb05",
    "pdf": "empenho_7369.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "MEMORANDO N° 15.332/2026 — 30/06/2026"
   },
@@ -13564,7 +13628,7 @@
    ],
    "assinatura": "2c565fec484718f8",
    "pdf": "empenho_8302.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53196 — 16/07/2026"
   },
@@ -13630,7 +13694,7 @@
    ],
    "assinatura": "820ae4bfb55218b0",
    "pdf": "empenho_8303.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53192 — 16/07/2026"
   },
@@ -13696,7 +13760,7 @@
    ],
    "assinatura": "5dc02517548dcd3a",
    "pdf": "empenho_8264.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53158 — 15/07/2026"
   },
@@ -13762,7 +13826,7 @@
    ],
    "assinatura": "effb373abc6d9eb4",
    "pdf": "empenho_8265.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53159 — 15/07/2026"
   },
@@ -13828,7 +13892,7 @@
    ],
    "assinatura": "d2def9ae9f1d3ad9",
    "pdf": "empenho_8100.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52979 — 07/07/2026"
   },
@@ -13894,7 +13958,7 @@
    ],
    "assinatura": "793117d7a3fcf870",
    "pdf": "empenho_8101.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52984 — 07/07/2026"
   },
@@ -13960,7 +14024,7 @@
    ],
    "assinatura": "27a58a8dca2a1d8f",
    "pdf": "empenho_5827.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52197 — 28/05/2026"
   },
@@ -14008,7 +14072,7 @@
    ],
    "assinatura": "21e272ca4ffa8ec7",
    "pdf": "empenho_5828.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -14074,7 +14138,7 @@
    ],
    "assinatura": "3bd74ea0e4f1d1a7",
    "pdf": "empenho_5829.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52199 — 28/05/2026"
   },
@@ -14122,7 +14186,7 @@
    ],
    "assinatura": "d371b5a7fa8712b2",
    "pdf": "empenho_5830.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -14188,7 +14252,7 @@
    ],
    "assinatura": "28ac8f5a308fd5f2",
    "pdf": "empenho_5834.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52198 — 28/05/2026"
   },
@@ -14254,7 +14318,7 @@
    ],
    "assinatura": "405438de3a441562",
    "pdf": "empenho_5614.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52002 — 20/05/2026"
   },
@@ -14320,7 +14384,7 @@
    ],
    "assinatura": "84e4e332db73bb74",
    "pdf": "empenho_5615.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52003 — 20/05/2026"
   },
@@ -14386,7 +14450,7 @@
    ],
    "assinatura": "904a6cc1be4616fd",
    "pdf": "empenho_5575.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "51958 — 18/05/2026"
   },
@@ -14452,7 +14516,7 @@
    ],
    "assinatura": "17633276ffb825dc",
    "pdf": "empenho_5254.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "51817 — 12/05/2026"
   },
@@ -14518,7 +14582,7 @@
    ],
    "assinatura": "a40ccb353d202567",
    "pdf": "empenho_5123.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "51686 — 06/05/2026"
   },
@@ -14584,7 +14648,7 @@
    ],
    "assinatura": "f60b19cb283d5085",
    "pdf": "empenho_4373.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "MEMORANDO Nº 9.454/2026 — 28/04/2026"
   },
@@ -14650,7 +14714,7 @@
    ],
    "assinatura": "6d6b414e6bb0ade4",
    "pdf": "empenho_9837.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53872 — 18/08/2026"
   },
@@ -14716,7 +14780,7 @@
    ],
    "assinatura": "327adf274e066931",
    "pdf": "empenho_8368.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53278 — 21/07/2026"
   },
@@ -14782,7 +14846,7 @@
    ],
    "assinatura": "ca999e8037bd2d1d",
    "pdf": "empenho_8369.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53279 — 22/07/2026"
   },
@@ -14805,7 +14869,7 @@
      "data_emissao": "2026-09-01",
      "valor": 30755.66,
      "data_liquidacao": "2026-10-05",
-     "data_pagamento": null,
+     "data_pagamento": "2026-10-22",
      "estornado": false
     }
    ],
@@ -14815,10 +14879,10 @@
     "em_liquidacao": 0.0,
     "liquidado": 610.0,
     "retido": 0.0,
-    "pago": 0.0,
+    "pago": 610.0,
     "a_liquidar": 0.0,
-    "a_pagar_liquidado": 610.0,
-    "a_pagar": 610.0
+    "a_pagar_liquidado": 0.0,
+    "a_pagar": 0.0
    },
    "movimentos": [
     {
@@ -14836,11 +14900,19 @@
      "valor": 610.0,
      "av_liquidacao": null,
      "estornada": null
+    },
+    {
+     "data": "2026-10-22",
+     "sequencia": "10219467",
+     "tipo": "pagamento",
+     "valor": 610.0,
+     "av_liquidacao": "10215148",
+     "estornada": null
     }
    ],
-   "assinatura": "01c17c4ae1f9ed45",
+   "assinatura": "1e4d3eeb7493be39",
    "pdf": "empenho_8224.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -14906,7 +14978,7 @@
    ],
    "assinatura": "8a8bbcd191239947",
    "pdf": "empenho_6716.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52424 — 10/06/2026"
   },
@@ -14972,7 +15044,7 @@
    ],
    "assinatura": "f76893f16216d4ef",
    "pdf": "empenho_5612.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52008 — 20/05/2026"
   },
@@ -15038,7 +15110,7 @@
    ],
    "assinatura": "828bfbdec82c42ad",
    "pdf": "empenho_5613.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "52007 — 20/05/2026"
   },
@@ -15104,7 +15176,7 @@
    ],
    "assinatura": "be8d7ef4da5c775f",
    "pdf": "empenho_3998.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 13932 — 10/04/2026"
   },
@@ -15203,7 +15275,7 @@
    ],
    "assinatura": "56914ab68a9247ad",
    "pdf": "empenho_3897.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 14483 — 26/06/2026"
   },
@@ -15269,7 +15341,7 @@
    ],
    "assinatura": "8b7ef96c40db9024",
    "pdf": "empenho_3807.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "51118 — 07/04/2026"
   },
@@ -15335,7 +15407,7 @@
    ],
    "assinatura": "1a80d2962ab9aa0b",
    "pdf": "empenho_8284.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53187 — 16/07/2026"
   },
@@ -15401,7 +15473,7 @@
    ],
    "assinatura": "87170abaeb6b2a24",
    "pdf": "empenho_10785.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "54290 — 09/09/2026"
   },
@@ -15467,7 +15539,7 @@
    ],
    "assinatura": "0a605a4e35c7dc38",
    "pdf": "empenho_10786.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "54291 — 09/09/2026"
   },
@@ -15533,7 +15605,7 @@
    ],
    "assinatura": "84b5056e8b21ec16",
    "pdf": "empenho_9642.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53746 — 12/08/2026"
   },
@@ -15599,7 +15671,7 @@
    ],
    "assinatura": "ba01a975dff8f732",
    "pdf": "empenho_9643.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53745 — 12/08/2026"
   },
@@ -15665,7 +15737,7 @@
    ],
    "assinatura": "5eafdeef60c87403",
    "pdf": "empenho_8242.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53097 — 13/07/2026"
   },
@@ -15731,7 +15803,7 @@
    ],
    "assinatura": "f8d99dacbe45bd53",
    "pdf": "empenho_8243.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "53098 — 13/07/2026"
   },
@@ -15797,7 +15869,7 @@
    ],
    "assinatura": "f180696fa20ccba0",
    "pdf": "empenho_6637.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 14677 — 06/08/2026"
   },
@@ -15863,7 +15935,7 @@
    ],
    "assinatura": "f42ebb517f879e23",
    "pdf": "empenho_5694.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 14216 — 22/05/2026"
   },
@@ -15945,7 +16017,7 @@
    ],
    "assinatura": "28161091645fd0ce",
    "pdf": "empenho_8809.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "TERMO DE FOMENTO 2026TR001 - EMENDA 10103/2026"
   },
@@ -16003,7 +16075,7 @@
    ],
    "assinatura": "7d06b2b4ce27a14b",
    "pdf": "empenho_9167.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "2026TR006 - EMENDA Nº 10205/2026 - SETEMBRO/26 — 22/09/2026"
   },
@@ -16061,7 +16133,7 @@
    ],
    "assinatura": "a883faa035b3c484",
    "pdf": "empenho_9445.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "2026TR016 - EMENDA Nº 10501/2026 - SETEMBRO/26 — 22/09/2026"
   },
@@ -16119,7 +16191,7 @@
    ],
    "assinatura": "ddcceadc2f5e35bb",
    "pdf": "empenho_8106.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "TERMO DE FOMENTO Nº 2026TR029 - EMENDA Nº 10801"
   },
@@ -16193,7 +16265,7 @@
    ],
    "assinatura": "b5b2efe72159b00b",
    "pdf": "empenho_8943.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "TERMO DE FOMENTO Nº 2026TR030 - EMENDA Nº 10802/26"
   },
@@ -16233,7 +16305,7 @@
    ],
    "assinatura": "6567467123c782f2",
    "pdf": "empenho_8945.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "—"
   },
@@ -16325,7 +16397,7 @@
    ],
    "assinatura": "4ab8e5f771412f1c",
    "pdf": "empenho_9446.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "TERMO DE FOMENTO Nº 2026TR025 - EMENDA 10702/26"
   },
@@ -16399,7 +16471,7 @@
    ],
    "assinatura": "4957f7f477437f51",
    "pdf": "empenho_8944.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "TERMO DE FOMENTO Nº 2026TR027 - EMENDA Nº 10708/26"
   },
@@ -16457,7 +16529,7 @@
    ],
    "assinatura": "062c96594fa6aa11",
    "pdf": "empenho_6706.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 6545 — 23/07/2026"
   },
@@ -16523,7 +16595,7 @@
    ],
    "assinatura": "b5cddf270dba433c",
    "pdf": "empenho_4264.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 949 — 11/05/2026"
   },
@@ -16589,7 +16661,7 @@
    ],
    "assinatura": "98494d36d50d0e65",
    "pdf": "empenho_4016.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "51257 — 13/04/2026"
   },
@@ -16655,7 +16727,7 @@
    ],
    "assinatura": "a18c7b02cb14ebde",
    "pdf": "empenho_2925.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 12383 — 07/04/2026"
   },
@@ -16729,7 +16801,7 @@
    ],
    "assinatura": "0e1aae0bc203b118",
    "pdf": "empenho_2499.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 12121 — 23/03/2026"
   },
@@ -16795,7 +16867,7 @@
    ],
    "assinatura": "98c163cddda9f76e",
    "pdf": "empenho_2502.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "NF 882 — 23/03/2026"
   },
@@ -16861,7 +16933,7 @@
    ],
    "assinatura": "f6390bcd702d8720",
    "pdf": "empenho_1766.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "MEMORANDO Nº 4.581/2026 - EMENDA Nº 11101 — 27/02/2026"
   },
@@ -16919,7 +16991,7 @@
    ],
    "assinatura": "85d46b334ab50e3f",
    "pdf": "empenho_9168.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "2026TR044 - EMENDA Nº 11108/2026 - SETEMBRO/26 — 22/09/2026"
   },
@@ -17001,7 +17073,7 @@
    ],
    "assinatura": "796050e4a370f3a3",
    "pdf": "empenho_8806.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "TERMO DE FOMENTO Nº 2026TR050 - EMENDA Nº 11305/26"
   },
@@ -17075,7 +17147,7 @@
    ],
    "assinatura": "04641b181c17504b",
    "pdf": "empenho_10949.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": [],
    "nf_legado": "PROC. ADMIN. Nº 3.361/2026 - EMENDA Nº 11307/2026"
   },
@@ -17141,7 +17213,7 @@
    ],
    "assinatura": "b1ab48d658f88851",
    "pdf": "empenho_12113.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": []
   },
   "12209": {
@@ -17180,7 +17252,7 @@
    ],
    "assinatura": "5940f432dce7678f",
    "pdf": "empenho_12209.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": []
   },
   "12241": {
@@ -17219,7 +17291,7 @@
    ],
    "assinatura": "e767b13928b4311f",
    "pdf": "empenho_12241.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": []
   },
   "12227": {
@@ -17284,7 +17356,7 @@
    ],
    "assinatura": "da9ee4d093ed3e0d",
    "pdf": "empenho_12227.pdf",
-   "pdf_emitido_em": "2026-10-19",
+   "pdf_emitido_em": "2026-10-23",
    "divergencias": []
   }
  },
@@ -17309,5 +17381,5 @@
   "2057",
   "2071"
  ],
- "ultima_alteracao": "2026-10-19T14:11:57"
+ "ultima_alteracao": "2026-10-23T09:32:09"
 }
